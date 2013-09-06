@@ -1,0 +1,11 @@
+/* uncomment the below to hide the heading */
+/*
+#CoolPanelClock>h4 {
+   display: none;
+}
+ */
+
+#CoolPanelClockFace {
+   display: block;
+   margin: 20px auto;
+}
